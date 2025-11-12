@@ -12,5 +12,5 @@ Retrieves weather information via the Open-Meteo API, ensuring up-to-date weathe
 Clean and simple UI designed for easy integration and minimal setup.
 
 
-<img width="400" height="400" alt="html css javascript" src="https://github.com/user-attachments/assets/4b97b877-35c0-4a5a-ae35-ee4f5cb960b0" />  <img width="500" height="500" alt="mosweb" src="https://github.com/user-attachments/assets/d9d4e924-9bb9-43e4-9bb9-a3cc195c3308" />
+<img width="400" height="400" alt="html css javascript" src="https://github.com/user-attachments/assets/4b97b877-35c0-4a5a-ae35-ee4f5cb960b0" />  <img width="300" height="300" alt="mosweb" src="https://github.com/user-attachments/assets/d9d4e924-9bb9-43e4-9bb9-a3cc195c3308" />
 
